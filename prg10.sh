@@ -1,4 +1,5 @@
 #!/bin/bash
+#This line added by developer
 read -p "Enter the fisrt number:" num1
 read -p "Enter the second number:" num2
 if ((num1>num2))
