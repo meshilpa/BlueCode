@@ -1,4 +1,5 @@
 #!/bin/bash
+#add new line
 read -p "Enter the user name:" name
 grep -w ^$name /etc/passwd>/dev/null
 res=$?
